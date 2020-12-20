@@ -20,12 +20,6 @@ Bitcoin lo puedes comprar en casas de cambio digitales, a cambistas digitales in
 ## ¿Cómo usar Bitcoin?
 Puedes comenzar aceptando Bitcoin como medio de pago en tu tienda o servicio personal. Sólo necesitas descargar tu billetera digital (Bitcoin Wallet) que puedes conseguir en Google Play, App Store o Bitcoin.org
 
-También puedes visitar:
-
-blockchain.info
-
-coinmap.org
-
 
 
 
