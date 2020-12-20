@@ -15,10 +15,15 @@ Bitcoin funciona mediante una red con protocolo descentralizado. Como Internet, 
 Bitcoin nació el 2009 a partir de la crisis financiera global como una propuesta para superar el sistema financiero centralizado inflacionario del Estado y la Banca. Hasta hoy no se ha reportado ningún bitcoin falsificado y su precio sigue en alza a diferencia de las economías estatales con dinero fiduciario que pierde valor en el tiempo. Bitcoin ayuda a cualquier persona no bancarizada a almacenar y transferir valor sin fronteras ni discriminación alguna.
 
 ## ¿Cómo compro Bitcoin?
-Bitcoin lo puedes comprar en casas de cambio digitales, a cambistas digitales independientes o cajeros ATM. Bitcoin (₿) se divide en 8 decimales (1.000 000 00) y la mínima unidad es llamada satoshi equivalente a 0.000 000 01 ₿.
+Bitcoin lo puedes comprar en casas de cambio digitales, a cambistas digitales independientes o cajeros ATM. Bitcoin (₿) se divide en 8 decimales (1.000 000 00) y la mínima unidad es llamada 'satoshi', equivalente a 0.000 000 01 ₿.
 
 ## ¿Cómo usar Bitcoin?
 Puedes comenzar aceptando Bitcoin como medio de pago en tu tienda o servicio personal. Sólo necesitas descargar tu billetera digital (Bitcoin Wallet) que puedes conseguir en Google Play, App Store o Bitcoin.org
+
+También puedes visitar:
+
+blockchain.info
+coinmap.org
 
 
 
