@@ -23,6 +23,7 @@ Puedes comenzar aceptando Bitcoin como medio de pago en tu tienda o servicio per
 También puedes visitar:
 
 blockchain.info
+
 coinmap.org
 
 
