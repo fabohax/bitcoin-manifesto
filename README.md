@@ -1,4 +1,4 @@
-![Bitcoin Logo](/bitcoin.png)
+
 
 # Manifiesto Bitcoin
 
